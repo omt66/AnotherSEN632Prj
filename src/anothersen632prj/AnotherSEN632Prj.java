@@ -12,6 +12,8 @@ package anothersen632prj;
 public class AnotherSEN632Prj {
 
     /**
+     * This is another demo
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
